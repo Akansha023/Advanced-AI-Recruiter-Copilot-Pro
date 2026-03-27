@@ -9,5 +9,11 @@ langchain-google-genai
 langchain-community
 langchain-text-splitters
 google-generativeai>=0.8.0
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+torch
+torchvision
 
 
